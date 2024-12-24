@@ -129,7 +129,7 @@ class Tree:  #Builds and evaluates an expression tree from a mathematical expres
 
 def main():
     logging.info("Starting program.")
-    print("Welcome to the Math Expression Evaluator!")
+    print("Welcome to the Math Expression Calculator!")
 
     while True:
         print("Enter a mathematical expression (or type 'exit' to quit):")
